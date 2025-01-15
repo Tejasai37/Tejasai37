@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently working on [Data Engeering ZoomCamp 2025]([url](https://github.com/DataTalksClub/data-engineering-zoomcamp)) by  [DataTalksClub]([url](https://github.com/DataTalksClub))
+I’m currently learning data engineering from [Data Engeering ZoomCamp 2025]([url](https://github.com/DataTalksClub/data-engineering-zoomcamp)) by  [DataTalksClub]([url](https://github.com/DataTalksClub))
 
 <!--
 **Tejasai37/Tejasai37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
